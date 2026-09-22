@@ -1,0 +1,169 @@
+{
+  "stories": [
+  {
+    "id": "story_01",
+    "title": "دانا الو اور چھوٹا خرگوش",
+    "category": "مختصر",
+    "age_group": "4-7",
+    "moral": "ہمیشہ بڑوں کی بات ماننی چاہیے اور مشکل میں گھبرانے کے بجائے دانشمندی سے کام لینا چاہیے۔",
+    "image": "https://assets.example.com/images/stories/wise_owl_rabbit.png",
+    "banner_image": "https://assets.example.com/images/stories/wise_owl_rabbit_banner.png",
+    "characters": ["دانا الو", "بنٹی خرگوش"],
+    "content": "ایک دفعہ کا ذکر ہے کہ جنگل میں ایک دانا الو رہتا تھا۔ وہ ہمیشہ سچ بولتا اور سب جانوروں کی مدد کرتا۔ ایک دن ایک چھوٹا خرگوش راستہ بھول گیا۔ وہ جنگل کے گھنے درختوں کے بیچ رو رہا تھا اور اسے اپنا گھر نہیں مل رہا تھا۔ دانا الو نے درخت کی اونچی شاخ سے اسے دیکھا اور پیار سے بولا: 'چھوٹے خرگوش! گھبراؤ مت، جب رات ہوتی ہے تو ستارے ہمیں راستہ دکھاتے ہیں۔' دانا الو نے اسے ستاروں کی سمت بتائی اور خرگوش خوشی خوشی اپنے گھر پہنچ گیا۔"
+  },
+  {
+    "id": "story_02",
+    "title": "مٹھو طوطے کی سچائی",
+    "category": "مختصر",
+    "age_group": "3-6",
+    "moral": "سچائی میں ہمیشہ برکت اور کامیابی ہوتی ہے۔",
+    "image": "https://assets.example.com/images/stories/mithu_parrot.png",
+    "banner_image": "https://assets.example.com/images/stories/mithu_parrot_banner.png",
+    "characters": ["مٹھو طوطا", "کبوتر"],
+    "content": "سرسبز باغ میں مٹھو نامی ایک بولتا طوطا رہتا تھا۔ وہ ہمیشہ صاف اور سچ بات کہتا تھا۔ ایک دن باغ کے پھل غائب ہو گئے تو سب نے ایک دوسرے پر شک کیا۔ مٹھو نے بنا ڈرے سچی بات بتا دی کہ پھل ہوا سے گرے تھے۔ سب نے مٹھو کی سچائی کی تعریف کی اور اسے اپنا دوست بنا لیا۔"
+  },
+  {
+    "id": "story_03",
+    "title": "مرخور کی خود اعتمادی",
+    "category": "مختصر",
+    "age_group": "4-7",
+    "moral": "اپنی صلاحیات پر بھروسہ رکھنا اور دوسروں کی مدد کرنا سچی بہادری ہے۔",
+    "image": "https://assets.example.com/images/stories/markhor_mountain.png",
+    "banner_image": "https://assets.example.com/images/stories/markhor_mountain_banner.png",
+    "characters": ["مرخور", "پہاڑی بچھڑا"],
+    "content": "اونچے پہاڑوں پر ایک دلیر مرخور رہتا تھا۔ اس کے گھنگھریالے سیگ اس کی خوبصورتی تھے۔ ایک دن ایک چھوٹا بچھڑا اونچی چٹان پر پھنس گیا۔ مرخور نے بغیر ڈرے اپنی مضبوط چھلانگوں سے چٹان پر چڑھ کر بچھڑے کو راستہ دکھایا اور حفاظت سے نیچے لے آیا۔"
+  },
+  {
+    "id": "story_04",
+    "title": "شیر بادشاہ اور چھوٹا پرندہ",
+    "category": "مختصر",
+    "age_group": "4-8",
+    "moral": "طاقت کے ساتھ رحم دلی اور عاجزی اپنا نا چاہیے۔",
+    "image": "https://assets.example.com/images/stories/king_lion.png",
+    "banner_image": "https://assets.example.com/images/stories/king_lion_banner.png",
+    "characters": ["شیر بادشاہ", "چڑیا"],
+    "content": "جنگل کے شیر بادشاہ کو اپنی طاقت پر بہت غرور تھا۔ ایک دن اس کے کان میں ایک چھوٹا کانٹا چبھ گیا۔ شیر درد سے کراہ رہا تھا پر کوئی جانور قریب نہ آیا۔ ایک ننھی چڑیا نے ہمت کی اور اپنی باریک چونچ سے کانٹا نکال دیا۔ شیر نے سمجھا کہ ہر چھوٹے جانور کی بھی اپنی اہمیت ہوتی ہے۔"
+  },
+  {
+    "id": "story_05",
+    "title": "گوری گائے کی سخاوت",
+    "category": "مختصر",
+    "age_group": "4-8",
+    "moral": "اپنے پاس موجود نعمتوں کو دوسروں کے ساتھ بانٹنا خوشی کا ذریعہ ہے۔",
+    "image": "https://assets.example.com/images/stories/gouri_cow.png",
+    "banner_image": "https://assets.example.com/images/stories/gouri_cow_banner.png",
+    "characters": ["گوری گائے", "چوٹے جانور"],
+    "content": "ایک خوبصورت گاؤں میں گوری نام کی گائے رہتی تھی۔ وہ بہت میٹھا دودھ دیتی تھی۔ جب بھی کوئی بچھڑا یا چھوٹا جانور بھوکا ہوتا، گوری خوشی سے اپنا دودھ پلاتی۔ اس کی اس سخاوت کی وجہ سے پوری چراگاہ کے جانور اس سے محبت کرتے تھے۔"
+  },
+  {
+    "id": "story_06",
+    "title": "وفادار کچپھوا",
+    "category": "اخلاقی",
+    "age_group": "4-8",
+    "moral": "سستی کے بجائے مسلسل محنت اور استقامت سے ہی کامیابی ملتی ہے۔",
+    "image": "https://assets.example.com/images/stories/loyal_turtle.png",
+    "banner_image": "https://assets.example.com/images/stories/loyal_turtle_banner.png",
+    "characters": ["کچھوا", "خرگوش"],
+    "content": "ایک جھیل کے کنارے کچھوا رہتا تھا جو بہت دھیمے چلتا تھا لیکن کبھی ہمت نہیں ہارتا تھا۔ جب اس کا مقابلہ تیز رفتار خرگوش سے ہوا تو کچھوا بغیر رکے اپنی منزل کی طرف چلتا رہا اور آخر کار ریس جیت گیا۔ اس نے ثابت کیا کہ مسلسل محنت ہی اصل کامیابی ہے۔"
+  },
+  {
+    "id": "story_07",
+    "title": "شریر بندر کی سبق آموز کہانی",
+    "category": "مختصر",
+    "age_group": "4-8",
+    "moral": "دوسروں کا مذاق نہیں اڑانا چاہیے اور مل جل کر رہنا چاہیے۔",
+    "image": "https://assets.example.com/images/stories/naughty_monkey.png",
+    "banner_image": "https://assets.example.com/images/stories/naughty_monkey_banner.png",
+    "characters": ["بندر", "ہاتھی"],
+    "content": "درختوں پر اچھل کود کرنے والا بندر روزانہ دوسرے جانوروں کو تنگ کرتا اور ان کا سامان چھپاتا تھا۔ ایک دن وہ دلدل میں پھنس گیا تو جس ہاتھی کا اس نے مذاق اڑایا تھا، اسی نے اپنی سونڈ سے اسے باہر نکالا۔ بندر نے شرمندہ ہو کر آئندہ کسی کو تنگ نہ کرنے کا وعدہ کیا۔"
+  },
+  {
+    "id": "story_08",
+    "title": "مور کا غرور",
+    "category": "اخلاقی",
+    "age_group": "4-8",
+    "moral": "ظاہری خوبصورتی سے زیادہ اچھی سیرت اور اخلاق اہم ہوتے ہیں۔",
+    "image": "https://assets.example.com/images/stories/proud_peacock.png",
+    "banner_image": "https://assets.example.com/images/stories/proud_peacock_banner.png",
+    "characters": ["مور", "سادہ کوئل"],
+    "content": "جنگل میں ایک خوبصورت مور رہتا تھا جسے اپنے پروں پر بہت غرور تھا۔ وہ سادہ پرندوں سے بات بھی نہیں کرتا تھا۔ ایک دن تیز بارش اور طوفان میں اس کے پر گندے ہو گئے اور وہ اڑ نہ سکا۔ کوئل نے اسے اپنے گھونسلے میں پناہ دی جس پر مور کو اپنے غرور پر سخت شرمندگی ہوئی۔"
+  },
+  {
+    "id": "story_09",
+    "title": "سونے کی مچھلی اور دریا",
+    "category": "مختصر",
+    "age_group": "4-8",
+    "moral": "لالچ بری بلا ہے، جو مل جائے اس پر شکر ادا کرنا چاہیے۔",
+    "image": "https://assets.example.com/images/stories/golden_fish.png",
+    "banner_image": "https://assets.example.com/images/stories/golden_fish_banner.png",
+    "characters": ["سنہری مچھلی", "ماہی گیر"],
+    "content": "ایک صاف شفاف ندی میں ایک سنہری مچھلی رہتی تھی جو تیرتے ہوئے چمکتی تھی۔ ایک ماہی گیر نے اسے پکڑا تو مچھلی نے التجا کی کہ اسے آزاد کر دیا جائے۔ ماہی گیر نے رحم کھا کر اسے چھوڑ دیا۔ بدلے میں مچھلی نے اسے روزانہ ایک موتی تحفے میں دیا اور دونوں اچھے دوست بن گئے۔"
+  },
+  {
+    "id": "story_10",
+    "title": "سخاوت کا پھل",
+    "category": "اخلاقی",
+    "age_group": "4-8",
+    "moral": "دوسروں کی ضرورت میں کام آنا ہی سچی انسانیت ہے۔",
+    "image": "https://assets.example.com/images/stories/fruit_generosity.png",
+    "banner_image": "https://assets.example.com/images/stories/fruit_generosity_banner.png",
+    "characters": ["چوہا", "عام کے درخت"],
+    "content": "ایک نٹ کھٹ چوہے کو آم کے درخت کے نیچے ایک بڑا پکا ہوا آم ملا۔ اس نے سوچا کہ وہ اسے اکیلا کھائے گا، لیکن اس نے دیکھا کہ اس کے چھوٹے بھائی بھی بھوکے ہیں۔ اس نے آم سب کے ساتھ مل کر کھایا۔ سب نے خوشی منائی اور چوہے کو محنت کا میٹھا پھل مل گیا۔"
+  },
+  {
+    "id": "story_11",
+    "title": "سچائی کی فتح",
+    "category": "اخلاقی",
+    "age_group": "4-8",
+    "moral": "سچ بولنے والے کا سر ہمیشہ اونچا رہتا ہے۔",
+    "image": "https://assets.example.com/images/stories/truth_victory.png",
+    "banner_image": "https://assets.example.com/images/stories/truth_victory_banner.png",
+    "characters": ["عالیہ", "دادی اماں"],
+    "content": "عالیہ سے دادی اماں کا پسندیدہ گلدان غلطی سے ٹوٹ گیا۔ وہ ڈر گئی کہ دادی ڈانٹیں گی، لیکن اس نے ہمت کر کے دادی کو سچ سچ بتا دیا۔ دادی اماں نے مسکرا کر اسے گلے سے لگایا اور کہا کہ سچ بولنا گلدان سے زیادہ قیمتی ہے۔"
+  },
+  {
+    "id": "story_12",
+    "title": "دوستی کا سبق",
+    "category": "مختصر",
+    "age_group": "4-8",
+    "moral": "سچا دوست وہی ہے جو مصیبت میں کام آئے۔",
+    "image": "https://assets.example.com/images/stories/lesson_friendship.png",
+    "banner_image": "https://assets.example.com/images/stories/lesson_friendship_banner.png",
+    "characters": ["سارہ", "دادی اماں"],
+    "content": "سارہ نے اپنے نئے پڑوسی کو دیکھ کر دوستی کا ہاتھ بڑھایا اور اپنے کھلونے اس کے ساتھ شیئر کیے۔ جب سارہ بیمار ہوئی تو اس کی دوست نے اس کا دل بہلانے کے لیے پیارے پیارے خط اور پھول بھیجے۔ دونوں کی دوستی اور مضبوط ہو گئی۔"
+  },
+  {
+    "id": "story_13",
+    "title": "اتحاد میں برکت",
+    "category": "اخلاقی",
+    "age_group": "4-8",
+    "moral": "مل جل کر کام کرنے سے بڑی سے بڑی مشکل آسان ہو جاتی ہے۔",
+    "image": "https://assets.example.com/images/stories/unity_blessing.png",
+    "banner_image": "https://assets.example.com/images/stories/unity_blessing_banner.png",
+    "characters": ["لومڑی", "خرگوش"],
+    "content": "جنگل میں شدید برف باری ہوئی۔ کھانے کی تلاش مشکل ہو گئی۔ لومڑی اور خرگوش نے مل کر برف ہٹائی اور مل کر خوراک تلاش کی۔ اکیلے جو کام ناممکن تھا، اتحاد کی وجہ سے وہ دونوں کے لیے آسان ہو گیا۔"
+  },
+  {
+    "id": "story_14",
+    "title": "محنت کا انعام",
+    "category": "اخلاقی",
+    "age_group": "4-8",
+    "moral": "کاہلی کا انجام برا ہوتا ہے اور محنت کا پھل میٹھا ہوتا ہے۔",
+    "image": "https://assets.example.com/images/stories/reward_hardwork.png",
+    "banner_image": "https://assets.example.com/images/stories/reward_hardwork_banner.png",
+    "characters": ["شہد کی مکھیاں"],
+    "content": "بہار کے موسم میں شہد کی مکھیاں صبح سے شام تک پھولوں سے رس جمع کرتی تھیں۔ ایک سست مکھی کھیلتی رہی۔ جب سردیاں آئیں تو محنتی مکھیوں کے پاس وافر شہد تھا جبکہ سست مکھی بھوکی رہ گئی۔ محنتی مکھیوں نے اسے شہد دیا اور محنت کی اہمیت سکھائی۔"
+  },
+  {
+    "id": "story_15",
+    "title": "ہمت کی کہانی",
+    "category": "اخلاقی",
+    "age_group": "4-8",
+    "moral": "ہمت اور حوصلے سے ہر رکاوٹ پار کی جا سکتی ہے۔",
+    "image": "https://assets.example.com/images/stories/story_courage.png",
+    "banner_image": "https://assets.example.com/images/stories/story_courage_banner.png",
+    "characters": ["مانو بلی", "چوہا"],
+    "content": "مانو بلی بہت ڈرپوک تھی اور رات کے اندھیرے سے ڈرتی تھی۔ ایک دن اس کا چھوٹا دوست چوہا ایک گہرے سوراخ میں گر گیا۔ مانو نے ڈر کو سائیڈ پر رکھا، ہمت کی اور اندھیرے میں جا کر اپنے دوست کو بچا لیا۔ اس دن کے بعد اس کا ڈر ہمیشہ کے لیے ختم ہو گیا۔"
+  }
+]
+}
